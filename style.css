@@ -1,8 +1,29 @@
 
+* {
+    
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+
+}
 
 .header {
     background-color: bisque;
-    padding: 10px
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+
+}
+
+.menu{
+    background-color: rgb(250, 249, 247);
+    padding: 10px;
+    text-align: center;
+    width: 40%;
+    margin: 5px auto;
+    height: auto;
+    border: 1px solid black;
+
+
 }
 
 .menu li {
@@ -23,6 +44,11 @@
 .footer {
     background-color: bisque;
     padding: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid black;
+
 }
 
 .recipe-header {
@@ -40,5 +66,6 @@
 .back-button {
     background-color: aliceblue;
     padding: 10px;
+    border-radius: 10px;
 
 }
