@@ -1,0 +1,44 @@
+
+
+.header {
+    background-color: bisque;
+    padding: 10px
+}
+
+.menu li {
+    line-height: 1.5;
+    color:black;
+    font-size: 16px;
+    list-style-type: upper-roman;
+
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 16px;
+    border-left: 10px;
+}
+
+.footer {
+    background-color: bisque;
+    padding: 10px;
+}
+
+.recipe-header {
+    background-color:beige;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.recipe-body {
+    padding: 10px;
+    line-height: 1.5;
+}
+
+.back-button {
+    background-color: aliceblue;
+    padding: 10px;
+
+}
