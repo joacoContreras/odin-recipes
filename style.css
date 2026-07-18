@@ -61,6 +61,9 @@
 .recipe-body {
     padding: 10px;
     line-height: 1.5;
+    justify-content: center;
+    text-align: center;
+    list-style-position: inside;
 }
 
 .back-button {
